@@ -3,8 +3,6 @@ title: Kapitola 2 Život
 contentType: prose
 ---
 
-  
-
 Ahoj, Petře! Ten duben, to je dobrej čas. A vejlet v Brně s Tebou a Hon­zou… už teď mi je z toho nápadu dobře! Určitě to uděláme.
 
 Právě dnes mi ambulantně vyřízli z obou očí (víček) po jednom ječném zrnu a obdržel jsem poukaz na brejle (na čtení)… Ještě mi schází hůl a takový ten dušný, stařecký hlas (pracuje se na tom, tuhle zimu mám pořád podrážděné průdušky). Asi brzo začnu stavět (na půdě nebo ve sklepě) létající talíř. Abych včas odletěl, než přijdou strázně a chmury stáří. Uvidíme… Třeba mě postihne nějaká forma demence a budu ržát štěstím, sedě na „gramofónu“ – když přede mnou přistane talíř s krupičnou kaší.
@@ -63,9 +61,7 @@ Nakonec mě pohltil zášleh hluboké potřeby chránit samotné nitro mé osobn
 
 Posílám do noci tato slova: Říkali mu od dětství: Jsme – Člověk. A zvedali k němu krutou zvířecí tvář. Lstivýma očkama pátrali, zdali jim naletěl… hledali v jeho bezelstném obličeji charakteristické známky, že tu jejich lež – jim „sežral“. Z nějakého, možná i jim neznámého důvodu potřebovali – aby jim věřil. Říkali: To je život. A vypadalo to, jako když smečka hyen se rve o mršinu. Vytáhli mordu z útrob mrtvoly a s ještě zkrvavenou tváří se pokusili o úsměv. To bylo to nejhorší.
 
-– – –
-
-  
+## – – –
 
 Měl jsem práci v tyhle dny. Luisa, moje dávná známá, láska mých mládeneckých let, jelení samice – ladná laň, potřebovala rychlou intervenci. Potřebovala pomoct se stěhováním, končil bouřlivě jeden z jejích hlubokých vztahů…
 
@@ -157,9 +153,7 @@ Blátotlačka volky nevolky mustroval se k odchodu. Nechtělo se mu, ale už se
 
 Tančíme s Luisou v srdečním rytmu, přidala se k nám Luisina známá, zpěvačka. Bulharka původem, domnívám se. Tančí teď spolu, ty dvě samice, jen se tak pohupuju a dívám se, jak se vlní ty dívčí boky. Okolo stárnoucí třicátníci, osamělí chlápci, vzývají kapelu „hrozením“. Prohlížím si hudební těleso, ty dva nehybné muže v čínských mandarínských maskách, stojící u svých stříbrných note­booků. Většina obecenstva je stržena rytmem a někteří jedinci se drží reprobeden a vřískajíce, neuvěřitelně rychle pohazují a vibrují hlavou… Další, jako já, jen tak se kymácejí v tmách a je jim dobře…
 
-– – –
-
-  
+## – – –
 
 Takhle si tedy věci stojí. Někdo se zřejmě, nevím proč, o mne zajímá. Nejdřív nabídka, pak varování, pak série dalších výstrah u Trafačky.
 
@@ -231,9 +225,7 @@ Nové základy experimentální psychologie od Břetislava Kafky, opravené a r
 
 A „Jařmo“ dostává od dnešního dne jméno „Línání“, když je to taková hajtra stará, k neutahání. Co proboha může mít takřka osmdesátiletý syn jednoho gestapáckého udavače, jakou může mít cenu pro dnešní garnituru? A jak, jestli vůbec, s tím souvisím já?
 
-– – –
-
-  
+## – – –
 
 Bože! Musím jít dál do času. Dovnitř a hlouběji do své bytosti. Paměť mi vyplavila ze svých uzavřených archivů jednu, vlastně několik navzájem zřetězených vzpomínek.
 
@@ -297,9 +289,7 @@ Přesně jsem si vzpomněl na ten temnej stín tenkrát v Béďově tváři. Na
 
 Nyní, takřka po deseti letech, cítím, že mám mandát. Nebude to pouhá zvědavost. Cítím sílu pro přijetí vyšší pravdy… A nebudu „meč spravedlnosti“.
 
-– – –
-
-  
+## – – –
 
 Stojím na rozlehlé terase Národního muzea. Modravý podvečer, smogem zrnitý – hučením města prostoupený vzduch – přináší v náhlých závanech vlahou lehkost jara.
 
@@ -1777,9 +1767,7 @@ Alain Delon se zvednul a položil na stůl stovku, prstem ukázal číšníkovi
 
 Vůně tabáku a nějaké kolínské pominula tak náhle, že něco v Láďovi by se za tím nejasným pocitem, za tím příjemným hlasem rozutíkalo ještě dnes.
 
-– – –
-
-  
+## – – –
 
 Zvedl jsem se od stolu a otevřel okno. Ve tmách pod nebesy svítilo město. V bytech pomrkávaly obrazovky televizí a monitorů. Občas se někde pohnul člověk. V ulicích u bývalého přístavu hlučely skupinky mladých turistů, je zde plno levných ubytoven a hostelů.
 
