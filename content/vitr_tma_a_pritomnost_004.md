@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Vítr, tma a přítomnost](https://search.mlp.cz/cz/titul/vitr-tma-pritomnost/4044450/) tak, jak bylo vydáno nakladatelstvím Druhé město v Brně v roce 2014. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 20. 9. 2019.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>
